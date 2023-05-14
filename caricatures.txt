@@ -1,0 +1,2 @@
+Caricature{name=Iron man, descripcion=marvel universe}
+Caricature{name=batman, descripcion=night}
